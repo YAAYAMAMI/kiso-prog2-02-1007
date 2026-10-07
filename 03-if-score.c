@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int score = 75;
+    int score = 55;
     int point;
 
     if (score >= 60) {

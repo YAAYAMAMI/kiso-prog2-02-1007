@@ -4,7 +4,7 @@
 int main(void)
 {
     int a = 8;
-    int b = 3;
+    int b = 7;
     int max = (a > b) ? a : b;
 
     printf("%d\n", max);
